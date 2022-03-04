@@ -1,3 +1,3 @@
 # wordpress-starter
 
-A Envato friendly wp theme
+A Envato friendly `WP theme`.
